@@ -12,7 +12,7 @@ public class CustomHealthIndicator implements HealthIndicator {
         boolean error = true;
 
         if (error){
-            return Health.down().withDetail("down",123).build();
+            return Health.down().withDetail("down",123 ).build();
         }
 
         return Health.up().build();
