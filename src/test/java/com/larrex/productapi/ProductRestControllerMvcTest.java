@@ -92,7 +92,7 @@ public class ProductRestControllerMvcTest {
     @Test
     public void deleteProduct() throws Exception {
         doNothing().when(productRepository).deleteById(PRODUCT_ID);
-        mockMvc.perform(delete(PRODUCTAPI_PRODUCTS+PRODUCT_ID).contextPath(CONTEXT_PATH)).andExpect(status().isOk());
+        mockMvc.perform(delete(PRODUCTAPI_PRODUCTS+PRODUCT_ID ).contextPath(CONTEXT_PATH)).andExpect(status().isOk());
     }
     private static Product getProduct() {
         Product product = new Product();

@@ -2,6 +2,11 @@ package com.larrex.productapi.controllers;
 
 import com.larrex.productapi.model.Product;
 import com.larrex.productapi.repos.ProductRepository;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.Parameter;
+import io.swagger.v3.oas.annotations.responses.ApiResponse;
+import io.swagger.v3.oas.annotations.tags.Tag;
+import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,6 +18,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@Tag(name = "Product Rest EndPoints")
 public class ProductRestController {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(ProductRestController.class);
@@ -28,13 +34,14 @@ public class ProductRestController {
     @RequestMapping(value = "/products/{id}", method = RequestMethod.GET)
     @Transactional(readOnly = true)
     @Cacheable(value = "product-cache")
-    public Product getProduct(@PathVariable("id") int id) {
+    @Operation(summary = "Returns A product",description = "Takes ID returns Single Product")
+    public @ApiResponse(description = "Product Object") Product getProduct(@Parameter(description = "ID Of Product") @PathVariable("id") int id) {
         LOGGER.info("Finding all:"+id);
         return productRepository.findById(id).get();
     }
 
     @RequestMapping(value = "/products/", method = RequestMethod.POST)
-    public Product createProduct(@RequestBody Product product) {
+    public Product createProduct(@Valid @RequestBody Product product) {
         return productRepository.save(product);
     }
 

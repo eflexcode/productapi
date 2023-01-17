@@ -1,38 +1,1092 @@
-2023-01-16T00:20:42.492+01:00  INFO 12580 --- [main] c.l.p.ProductRestControllerMvcTest       : Starting ProductRestControllerMvcTest using Java 19.0.1 with PID 12580 (started by user in C:\Spring projects\productapi)
-2023-01-16T00:20:42.504+01:00  INFO 12580 --- [main] c.l.p.ProductRestControllerMvcTest       : No active profile set, falling back to 1 default profile: "default"
-2023-01-16T00:20:44.570+01:00  INFO 12580 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2023-01-16T00:20:44.571+01:00  INFO 12580 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2023-01-16T00:20:44.573+01:00  INFO 12580 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
-2023-01-16T00:20:44.637+01:00  INFO 12580 --- [main] c.l.p.ProductRestControllerMvcTest       : Started ProductRestControllerMvcTest in 2.598 seconds (process running for 4.047)
-2023-01-16T00:25:44.160+01:00  INFO 3236 --- [main] c.l.p.ProductRestControllerMvcTest       : Starting ProductRestControllerMvcTest using Java 19.0.1 with PID 3236 (started by user in C:\Spring projects\productapi)
-2023-01-16T00:25:44.162+01:00  INFO 3236 --- [main] c.l.p.ProductRestControllerMvcTest       : No active profile set, falling back to 1 default profile: "default"
-2023-01-16T00:25:46.113+01:00  INFO 3236 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2023-01-16T00:25:46.113+01:00  INFO 3236 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2023-01-16T00:25:46.115+01:00  INFO 3236 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
-2023-01-16T00:25:46.161+01:00  INFO 3236 --- [main] c.l.p.ProductRestControllerMvcTest       : Started ProductRestControllerMvcTest in 2.43 seconds (process running for 3.713)
-2023-01-16T01:58:20.674+01:00  INFO 16940 --- [main] c.l.p.ProductRestControllerMvcTest       : Starting ProductRestControllerMvcTest using Java 19.0.1 with PID 16940 (started by user in C:\Spring projects\productapi)
-2023-01-16T01:58:20.675+01:00  INFO 16940 --- [main] c.l.p.ProductRestControllerMvcTest       : No active profile set, falling back to 1 default profile: "default"
-2023-01-16T01:58:22.696+01:00  INFO 16940 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2023-01-16T01:58:22.696+01:00  INFO 16940 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2023-01-16T01:58:22.699+01:00  INFO 16940 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
-2023-01-16T01:58:22.751+01:00  INFO 16940 --- [main] c.l.p.ProductRestControllerMvcTest       : Started ProductRestControllerMvcTest in 2.542 seconds (process running for 3.99)
-2023-01-16T02:17:41.890+01:00  INFO 1592 --- [main] c.l.p.ProductRestControllerMvcTest       : Starting ProductRestControllerMvcTest using Java 19.0.1 with PID 1592 (started by user in C:\Spring projects\productapi)
-2023-01-16T02:17:41.892+01:00  INFO 1592 --- [main] c.l.p.ProductRestControllerMvcTest       : No active profile set, falling back to 1 default profile: "default"
-2023-01-16T02:17:44.041+01:00  INFO 1592 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2023-01-16T02:17:44.042+01:00  INFO 1592 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2023-01-16T02:17:44.044+01:00  INFO 1592 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
-2023-01-16T02:17:44.095+01:00  INFO 1592 --- [main] c.l.p.ProductRestControllerMvcTest       : Started ProductRestControllerMvcTest in 2.717 seconds (process running for 4.248)
-2023-01-16T02:17:44.418+01:00  WARN 1592 --- [main] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' is not supported]
-2023-01-16T02:18:23.335+01:00  INFO 3788 --- [main] c.l.p.ProductRestControllerMvcTest       : Starting ProductRestControllerMvcTest using Java 19.0.1 with PID 3788 (started by user in C:\Spring projects\productapi)
-2023-01-16T02:18:23.337+01:00  INFO 3788 --- [main] c.l.p.ProductRestControllerMvcTest       : No active profile set, falling back to 1 default profile: "default"
-2023-01-16T02:18:25.435+01:00  INFO 3788 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2023-01-16T02:18:25.436+01:00  INFO 3788 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2023-01-16T02:18:25.438+01:00  INFO 3788 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
-2023-01-16T02:18:25.481+01:00  INFO 3788 --- [main] c.l.p.ProductRestControllerMvcTest       : Started ProductRestControllerMvcTest in 2.617 seconds (process running for 3.981)
-2023-01-16T02:18:25.790+01:00  WARN 3788 --- [main] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "id"]
-2023-01-16T02:18:46.657+01:00  INFO 17668 --- [main] c.l.p.ProductRestControllerMvcTest       : Starting ProductRestControllerMvcTest using Java 19.0.1 with PID 17668 (started by user in C:\Spring projects\productapi)
-2023-01-16T02:18:46.659+01:00  INFO 17668 --- [main] c.l.p.ProductRestControllerMvcTest       : No active profile set, falling back to 1 default profile: "default"
-2023-01-16T02:18:48.677+01:00  INFO 17668 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2023-01-16T02:18:48.677+01:00  INFO 17668 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2023-01-16T02:18:48.679+01:00  INFO 17668 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
-2023-01-16T02:18:48.730+01:00  INFO 17668 --- [main] c.l.p.ProductRestControllerMvcTest       : Started ProductRestControllerMvcTest in 2.526 seconds (process running for 3.85)
+2023-01-17T04:49:21.666+01:00  INFO 10432 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 10432 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T04:49:21.679+01:00  INFO 10432 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T04:49:22.785+01:00  INFO 10432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T04:49:22.863+01:00  INFO 10432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 68 ms. Found 1 JPA repository interfaces.
+2023-01-17T04:49:23.726+01:00  INFO 10432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T04:49:23.739+01:00  INFO 10432 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T04:49:23.739+01:00  INFO 10432 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T04:49:23.871+01:00  INFO 10432 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T04:49:23.872+01:00  INFO 10432 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2123 ms
+2023-01-17T04:49:24.191+01:00  WARN 10432 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T04:49:25.136+01:00  INFO 10432 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T04:49:25.137+01:00  INFO 10432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T04:49:25.137+01:00  INFO 10432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T04:49:25.137+01:00  INFO 10432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T04:49:25.138+01:00  INFO 10432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T04:49:25.140+01:00  INFO 10432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T04:49:26.100+01:00  INFO 10432 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T04:49:26.234+01:00  INFO 10432 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T04:49:26.238+01:00  WARN 10432 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T04:49:26.564+01:00  INFO 10432 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T04:49:26.569+01:00  INFO 10432 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T04:49:28.937+01:00  INFO 10432 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - a3b6f93b-bcc3-4919-8411-d144ecda21a5 this
+]
+
+2023-01-17T04:49:28.964+01:00  INFO 10432 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T04:49:29.108+01:00  INFO 10432 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T04:49:29.493+01:00  INFO 10432 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3494a35e
+2023-01-17T04:49:29.495+01:00  INFO 10432 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T04:49:29.548+01:00  INFO 10432 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T04:49:29.615+01:00  INFO 10432 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T04:49:29.839+01:00  WARN 10432 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T04:49:30.028+01:00  INFO 10432 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T04:49:30.267+01:00  INFO 10432 --- [main] o.h.c.beanvalidation.TypeSafeActivator   : Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291) ~[jakarta.validation-api-3.0.2.jar:na]
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103) ~[jakarta.validation-api-3.0.2.jar:na]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[na:na]
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.1.jar:3.0.1]
+	at com.larrex.productapi.ProductapiApplication.main(ProductapiApplication.java:12) ~[classes/:na]
+
+2023-01-17T04:49:30.756+01:00  INFO 10432 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T04:49:30.767+01:00  INFO 10432 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T04:49:31.127+01:00  WARN 10432 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T04:49:32.187+01:00  INFO 10432 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T04:49:32.280+01:00  INFO 10432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T04:49:32.296+01:00  INFO 10432 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 11.183 seconds (process running for 12.193)
+2023-01-17T04:50:50.323+01:00  INFO 10432 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T04:50:50.324+01:00  INFO 10432 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T04:50:50.327+01:00  INFO 10432 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-17T04:54:51.653+01:00  INFO 10432 --- [hz.ShutdownThread] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Running shutdown hook... Current state: ACTIVE
+2023-01-17T04:54:51.707+01:00  INFO 10432 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T04:54:51.710+01:00  INFO 10432 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-17T04:54:51.718+01:00  INFO 10432 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-01-17T04:54:54.768+01:00  INFO 13560 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 13560 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T04:54:54.771+01:00  INFO 13560 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T04:54:55.871+01:00  INFO 13560 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T04:54:55.947+01:00  INFO 13560 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 66 ms. Found 1 JPA repository interfaces.
+2023-01-17T04:54:56.816+01:00  INFO 13560 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T04:54:56.829+01:00  INFO 13560 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T04:54:56.829+01:00  INFO 13560 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T04:54:56.967+01:00  INFO 13560 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T04:54:56.968+01:00  INFO 13560 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2125 ms
+2023-01-17T04:54:57.255+01:00  WARN 13560 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T04:54:58.216+01:00  INFO 13560 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T04:54:58.217+01:00  INFO 13560 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T04:54:58.217+01:00  INFO 13560 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T04:54:58.217+01:00  INFO 13560 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T04:54:58.217+01:00  INFO 13560 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T04:54:58.220+01:00  INFO 13560 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T04:54:59.181+01:00  INFO 13560 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T04:54:59.314+01:00  INFO 13560 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T04:54:59.318+01:00  WARN 13560 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T04:54:59.640+01:00  INFO 13560 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T04:54:59.646+01:00  INFO 13560 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T04:55:02.359+01:00  INFO 13560 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - 2cf11414-42c7-4c71-aa7b-f82c9f9afd2a this
+]
+
+2023-01-17T04:55:02.387+01:00  INFO 13560 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T04:55:02.549+01:00  INFO 13560 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T04:55:02.927+01:00  INFO 13560 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1885dc2b
+2023-01-17T04:55:02.929+01:00  INFO 13560 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T04:55:02.990+01:00  INFO 13560 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T04:55:03.066+01:00  INFO 13560 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T04:55:03.294+01:00  WARN 13560 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T04:55:03.477+01:00  INFO 13560 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T04:55:03.712+01:00  INFO 13560 --- [main] o.h.c.beanvalidation.TypeSafeActivator   : Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291) ~[jakarta.validation-api-3.0.2.jar:na]
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103) ~[jakarta.validation-api-3.0.2.jar:na]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[na:na]
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.1.jar:3.0.1]
+	at com.larrex.productapi.ProductapiApplication.main(ProductapiApplication.java:12) ~[classes/:na]
+
+2023-01-17T04:55:04.200+01:00  INFO 13560 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T04:55:04.211+01:00  INFO 13560 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T04:55:04.575+01:00  WARN 13560 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T04:55:05.747+01:00  INFO 13560 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T04:55:05.860+01:00  INFO 13560 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T04:55:05.881+01:00  INFO 13560 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 11.695 seconds (process running for 12.193)
+2023-01-17T04:55:17.875+01:00  INFO 13560 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T04:55:17.876+01:00  INFO 13560 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T04:55:17.878+01:00  INFO 13560 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-01-17T04:58:43.305+01:00  INFO 13560 --- [hz.ShutdownThread] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Running shutdown hook... Current state: ACTIVE
+2023-01-17T04:58:43.357+01:00  INFO 13560 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T04:58:43.360+01:00  INFO 13560 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-17T04:58:43.368+01:00  INFO 13560 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-01-17T04:58:49.214+01:00  INFO 1344 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 1344 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T04:58:49.217+01:00  INFO 1344 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T04:58:50.406+01:00  INFO 1344 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T04:58:50.479+01:00  INFO 1344 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 60 ms. Found 1 JPA repository interfaces.
+2023-01-17T04:58:51.358+01:00  INFO 1344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T04:58:51.371+01:00  INFO 1344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T04:58:51.371+01:00  INFO 1344 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T04:58:51.502+01:00  INFO 1344 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T04:58:51.503+01:00  INFO 1344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2220 ms
+2023-01-17T04:58:51.819+01:00  WARN 1344 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T04:58:52.808+01:00  INFO 1344 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T04:58:52.808+01:00  INFO 1344 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T04:58:52.808+01:00  INFO 1344 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T04:58:52.808+01:00  INFO 1344 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T04:58:52.809+01:00  INFO 1344 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T04:58:52.811+01:00  INFO 1344 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T04:58:53.787+01:00  INFO 1344 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T04:58:53.921+01:00  INFO 1344 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T04:58:53.925+01:00  WARN 1344 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T04:58:54.251+01:00  INFO 1344 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T04:58:54.257+01:00  INFO 1344 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T04:58:56.530+01:00  INFO 1344 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - b73692a9-1c0f-44b7-be3f-573c41183b1a this
+]
+
+2023-01-17T04:58:56.563+01:00  INFO 1344 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T04:58:56.714+01:00  INFO 1344 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T04:58:57.094+01:00  INFO 1344 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71f4aeb6
+2023-01-17T04:58:57.095+01:00  INFO 1344 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T04:58:57.146+01:00  INFO 1344 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T04:58:57.203+01:00  INFO 1344 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T04:58:57.434+01:00  WARN 1344 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T04:58:57.627+01:00  INFO 1344 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T04:58:57.860+01:00  INFO 1344 --- [main] o.h.c.beanvalidation.TypeSafeActivator   : Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291) ~[jakarta.validation-api-3.0.2.jar:na]
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103) ~[jakarta.validation-api-3.0.2.jar:na]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[na:na]
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.1.jar:3.0.1]
+	at com.larrex.productapi.ProductapiApplication.main(ProductapiApplication.java:12) ~[classes/:na]
+
+2023-01-17T04:58:58.357+01:00  INFO 1344 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T04:58:58.368+01:00  INFO 1344 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T04:58:58.859+01:00  WARN 1344 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T04:59:00.221+01:00  INFO 1344 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T04:59:00.318+01:00  INFO 1344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T04:59:00.337+01:00  INFO 1344 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 11.699 seconds (process running for 12.192)
+2023-01-17T04:59:00.849+01:00  INFO 1344 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T04:59:00.850+01:00  INFO 1344 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T04:59:00.852+01:00  INFO 1344 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-01-17T04:59:01.199+01:00  INFO 1344 --- [http-nio-8080-exec-1] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 292 ms
+2023-01-17T05:06:59.311+01:00  INFO 1344 --- [http-nio-8080-exec-1] c.h.i.p.impl.PartitionStateManager       : [192.168.48.34]:5701 [dev] [5.1.5] Initializing cluster partition table arrangement...
+2023-01-17T05:06:59.385+01:00  INFO 1344 --- [http-nio-8080-exec-1] c.l.p.controllers.ProductRestController  : Finding all:4
+2023-01-17T05:07:04.528+01:00  INFO 1344 --- [http-nio-8080-exec-3] c.l.p.controllers.ProductRestController  : Finding all:5
+2023-01-17T15:14:41.295+01:00  INFO 12036 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 12036 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T15:14:41.302+01:00  INFO 12036 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T15:14:42.753+01:00  INFO 12036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T15:14:42.849+01:00  INFO 12036 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 84 ms. Found 1 JPA repository interfaces.
+2023-01-17T15:14:43.833+01:00  INFO 12036 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T15:14:43.846+01:00  INFO 12036 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T15:14:43.847+01:00  INFO 12036 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T15:14:43.986+01:00  INFO 12036 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T15:14:43.987+01:00  INFO 12036 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2600 ms
+2023-01-17T15:14:44.337+01:00  WARN 12036 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T15:14:45.385+01:00  INFO 12036 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T15:14:45.385+01:00  INFO 12036 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T15:14:45.385+01:00  INFO 12036 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T15:14:45.385+01:00  INFO 12036 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T15:14:45.386+01:00  INFO 12036 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T15:14:45.395+01:00  INFO 12036 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T15:14:46.603+01:00  INFO 12036 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T15:14:46.767+01:00  INFO 12036 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T15:14:46.771+01:00  WARN 12036 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T15:14:47.192+01:00  INFO 12036 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T15:14:47.203+01:00  INFO 12036 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T15:14:49.609+01:00  INFO 12036 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - 30e70512-1533-42bc-af32-376c3cc644d1 this
+]
+
+2023-01-17T15:14:49.627+01:00  INFO 12036 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T15:14:49.792+01:00  INFO 12036 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T15:14:50.279+01:00  INFO 12036 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@56976b8b
+2023-01-17T15:14:50.282+01:00  INFO 12036 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T15:14:50.360+01:00  INFO 12036 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T15:14:50.448+01:00  INFO 12036 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T15:14:50.699+01:00  WARN 12036 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T15:14:50.924+01:00  INFO 12036 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T15:14:51.222+01:00  INFO 12036 --- [main] o.h.c.beanvalidation.TypeSafeActivator   : Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291) ~[jakarta.validation-api-3.0.2.jar:na]
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103) ~[jakarta.validation-api-3.0.2.jar:na]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[na:na]
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.1.jar:3.0.1]
+	at com.larrex.productapi.ProductapiApplication.main(ProductapiApplication.java:12) ~[classes/:na]
+
+2023-01-17T15:14:51.826+01:00  INFO 12036 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T15:14:51.844+01:00  INFO 12036 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T15:14:52.393+01:00  WARN 12036 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T15:14:54.015+01:00  INFO 12036 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T15:14:54.132+01:00  INFO 12036 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T15:14:54.153+01:00  INFO 12036 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 13.586 seconds (process running for 14.256)
+2023-01-17T15:14:54.562+01:00  INFO 12036 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T15:14:54.562+01:00  INFO 12036 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T15:14:54.564+01:00  INFO 12036 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-17T15:14:55.298+01:00  INFO 12036 --- [http-nio-8080-exec-10] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 269 ms
+2023-01-17T15:49:02.303+01:00  INFO 12036 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T15:49:02.306+01:00  INFO 12036 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-17T15:49:02.312+01:00  INFO 12036 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-01-17T15:49:06.829+01:00  INFO 6684 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 6684 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T15:49:06.832+01:00  INFO 6684 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T15:49:08.077+01:00  INFO 6684 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T15:49:08.147+01:00  INFO 6684 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 60 ms. Found 1 JPA repository interfaces.
+2023-01-17T15:49:08.991+01:00  INFO 6684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T15:49:09.003+01:00  INFO 6684 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T15:49:09.003+01:00  INFO 6684 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T15:49:09.131+01:00  INFO 6684 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T15:49:09.132+01:00  INFO 6684 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2213 ms
+2023-01-17T15:49:09.423+01:00  WARN 6684 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T15:49:10.404+01:00  INFO 6684 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T15:49:10.404+01:00  INFO 6684 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T15:49:10.404+01:00  INFO 6684 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T15:49:10.405+01:00  INFO 6684 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T15:49:10.405+01:00  INFO 6684 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T15:49:10.407+01:00  INFO 6684 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T15:49:11.379+01:00  INFO 6684 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T15:49:11.517+01:00  INFO 6684 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T15:49:11.521+01:00  WARN 6684 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T15:49:11.838+01:00  INFO 6684 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T15:49:11.844+01:00  INFO 6684 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T15:49:14.382+01:00  INFO 6684 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - e1abfa4a-bdff-400a-8e8b-7cd9d8e13071 this
+]
+
+2023-01-17T15:49:14.394+01:00  INFO 6684 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T15:49:14.525+01:00  INFO 6684 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T15:49:14.868+01:00  INFO 6684 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e1fd2bf
+2023-01-17T15:49:14.870+01:00  INFO 6684 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T15:49:14.924+01:00  INFO 6684 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T15:49:14.981+01:00  INFO 6684 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T15:49:15.196+01:00  WARN 6684 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T15:49:15.387+01:00  INFO 6684 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T15:49:15.628+01:00  INFO 6684 --- [main] o.h.c.beanvalidation.TypeSafeActivator   : Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291) ~[jakarta.validation-api-3.0.2.jar:na]
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103) ~[jakarta.validation-api-3.0.2.jar:na]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[na:na]
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.1.jar:3.0.1]
+	at com.larrex.productapi.ProductapiApplication.main(ProductapiApplication.java:15) ~[classes/:na]
+
+2023-01-17T15:49:16.125+01:00  INFO 6684 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T15:49:16.136+01:00  INFO 6684 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T15:49:16.707+01:00  WARN 6684 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T15:49:18.394+01:00  INFO 6684 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T15:49:18.554+01:00  INFO 6684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T15:49:18.588+01:00  INFO 6684 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 12.371 seconds (process running for 12.902)
+2023-01-17T15:49:19.265+01:00  INFO 6684 --- [http-nio-8080-exec-4] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T15:49:19.266+01:00  INFO 6684 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T15:49:19.268+01:00  INFO 6684 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-01-17T15:49:20.023+01:00  INFO 6684 --- [http-nio-8080-exec-7] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 247 ms
+2023-01-17T15:49:34.212+01:00  INFO 6684 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T15:49:34.215+01:00  INFO 6684 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-17T15:49:34.222+01:00  INFO 6684 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-01-17T15:49:38.492+01:00  INFO 10312 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 10312 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T15:49:38.496+01:00  INFO 10312 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T15:49:39.725+01:00  INFO 10312 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T15:49:39.799+01:00  INFO 10312 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 64 ms. Found 1 JPA repository interfaces.
+2023-01-17T15:49:40.683+01:00  INFO 10312 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T15:49:40.695+01:00  INFO 10312 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T15:49:40.696+01:00  INFO 10312 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T15:49:40.832+01:00  INFO 10312 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T15:49:40.833+01:00  INFO 10312 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2246 ms
+2023-01-17T15:49:41.151+01:00  WARN 10312 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T15:49:42.132+01:00  INFO 10312 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T15:49:42.132+01:00  INFO 10312 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T15:49:42.133+01:00  INFO 10312 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T15:49:42.133+01:00  INFO 10312 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T15:49:42.133+01:00  INFO 10312 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T15:49:42.135+01:00  INFO 10312 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T15:49:43.111+01:00  INFO 10312 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T15:49:43.248+01:00  INFO 10312 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T15:49:43.252+01:00  WARN 10312 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T15:49:43.569+01:00  INFO 10312 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T15:49:43.575+01:00  INFO 10312 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T15:49:46.304+01:00  INFO 10312 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - 3d94c9c7-fe5d-4d83-866d-723e081f8290 this
+]
+
+2023-01-17T15:49:46.316+01:00  INFO 10312 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T15:49:46.453+01:00  INFO 10312 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T15:49:46.823+01:00  INFO 10312 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e1fd2bf
+2023-01-17T15:49:46.825+01:00  INFO 10312 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T15:49:46.879+01:00  INFO 10312 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T15:49:46.936+01:00  INFO 10312 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T15:49:47.164+01:00  WARN 10312 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T15:49:47.360+01:00  INFO 10312 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T15:49:47.595+01:00  INFO 10312 --- [main] o.h.c.beanvalidation.TypeSafeActivator   : Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291) ~[jakarta.validation-api-3.0.2.jar:na]
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103) ~[jakarta.validation-api-3.0.2.jar:na]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[na:na]
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.1.jar:3.0.1]
+	at com.larrex.productapi.ProductapiApplication.main(ProductapiApplication.java:15) ~[classes/:na]
+
+2023-01-17T15:49:48.085+01:00  INFO 10312 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T15:49:48.096+01:00  INFO 10312 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T15:49:48.573+01:00  WARN 10312 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T15:49:50.078+01:00  INFO 10312 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T15:49:50.188+01:00  INFO 10312 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T15:49:50.209+01:00  INFO 10312 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 12.314 seconds (process running for 12.825)
+2023-01-17T15:53:57.175+01:00  INFO 10312 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T15:53:57.178+01:00  INFO 10312 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-17T15:53:57.185+01:00  INFO 10312 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-01-17T15:54:00.402+01:00  INFO 16612 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 16612 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T15:54:00.406+01:00  INFO 16612 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T15:54:01.652+01:00  INFO 16612 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T15:54:01.721+01:00  INFO 16612 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 59 ms. Found 1 JPA repository interfaces.
+2023-01-17T15:54:02.599+01:00  INFO 16612 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T15:54:02.611+01:00  INFO 16612 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T15:54:02.612+01:00  INFO 16612 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T15:54:02.751+01:00  INFO 16612 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T15:54:02.751+01:00  INFO 16612 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2248 ms
+2023-01-17T15:54:03.045+01:00  WARN 16612 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T15:54:04.041+01:00  INFO 16612 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T15:54:04.041+01:00  INFO 16612 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T15:54:04.041+01:00  INFO 16612 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T15:54:04.042+01:00  INFO 16612 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T15:54:04.042+01:00  INFO 16612 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T15:54:04.045+01:00  INFO 16612 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T15:54:05.036+01:00  INFO 16612 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T15:54:05.177+01:00  INFO 16612 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T15:54:05.181+01:00  WARN 16612 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T15:54:05.501+01:00  INFO 16612 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T15:54:05.507+01:00  INFO 16612 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T15:54:08.605+01:00  INFO 16612 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - f5e00aeb-aa75-4223-b428-b99ea4b59d09 this
+]
+
+2023-01-17T15:54:08.617+01:00  INFO 16612 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T15:54:08.757+01:00  INFO 16612 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T15:54:09.114+01:00  INFO 16612 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e1fd2bf
+2023-01-17T15:54:09.116+01:00  INFO 16612 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T15:54:09.168+01:00  INFO 16612 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T15:54:09.228+01:00  INFO 16612 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T15:54:09.472+01:00  WARN 16612 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T15:54:09.660+01:00  INFO 16612 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T15:54:09.903+01:00  INFO 16612 --- [main] o.h.c.beanvalidation.TypeSafeActivator   : Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291) ~[jakarta.validation-api-3.0.2.jar:na]
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103) ~[jakarta.validation-api-3.0.2.jar:na]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[na:na]
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.1.jar:3.0.1]
+	at com.larrex.productapi.ProductapiApplication.main(ProductapiApplication.java:15) ~[classes/:na]
+
+2023-01-17T15:54:10.405+01:00  INFO 16612 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T15:54:10.416+01:00  INFO 16612 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T15:54:10.930+01:00  WARN 16612 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T15:54:12.346+01:00  INFO 16612 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T15:54:12.470+01:00  INFO 16612 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T15:54:12.491+01:00  INFO 16612 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 12.717 seconds (process running for 13.257)
+2023-01-17T15:54:12.664+01:00  INFO 16612 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T15:54:12.664+01:00  INFO 16612 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T15:54:12.666+01:00  INFO 16612 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-17T15:54:13.541+01:00  INFO 16612 --- [http-nio-8080-exec-5] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 279 ms
+2023-01-17T16:04:39.880+01:00  INFO 16612 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T16:04:39.883+01:00  INFO 16612 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-17T16:04:39.891+01:00  INFO 16612 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-01-17T16:04:44.572+01:00  INFO 8060 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 8060 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T16:04:44.576+01:00  INFO 8060 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T16:04:45.862+01:00  INFO 8060 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T16:04:45.933+01:00  INFO 8060 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 60 ms. Found 1 JPA repository interfaces.
+2023-01-17T16:04:46.853+01:00  INFO 8060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T16:04:46.869+01:00  INFO 8060 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T16:04:46.870+01:00  INFO 8060 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T16:04:47.009+01:00  INFO 8060 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T16:04:47.010+01:00  INFO 8060 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2343 ms
+2023-01-17T16:04:47.307+01:00  WARN 8060 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T16:04:48.326+01:00  INFO 8060 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T16:04:48.327+01:00  INFO 8060 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T16:04:48.327+01:00  INFO 8060 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T16:04:48.327+01:00  INFO 8060 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T16:04:48.328+01:00  INFO 8060 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T16:04:48.330+01:00  INFO 8060 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T16:04:49.326+01:00  INFO 8060 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T16:04:49.468+01:00  INFO 8060 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T16:04:49.472+01:00  WARN 8060 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T16:04:49.820+01:00  INFO 8060 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T16:04:49.826+01:00  INFO 8060 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T16:04:52.171+01:00  INFO 8060 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - 280a19f4-53f6-43b5-92a6-9f90006ccc79 this
+]
+
+2023-01-17T16:04:52.183+01:00  INFO 8060 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T16:04:52.313+01:00  INFO 8060 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T16:04:52.675+01:00  INFO 8060 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@49bc71b4
+2023-01-17T16:04:52.677+01:00  INFO 8060 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T16:04:52.731+01:00  INFO 8060 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T16:04:52.789+01:00  INFO 8060 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T16:04:53.011+01:00  WARN 8060 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T16:04:53.211+01:00  INFO 8060 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T16:04:53.461+01:00  INFO 8060 --- [main] o.h.c.beanvalidation.TypeSafeActivator   : Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291) ~[jakarta.validation-api-3.0.2.jar:na]
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103) ~[jakarta.validation-api-3.0.2.jar:na]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[na:na]
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.1.jar:3.0.1]
+	at com.larrex.productapi.ProductapiApplication.main(ProductapiApplication.java:15) ~[classes/:na]
+
+2023-01-17T16:04:54.014+01:00  INFO 8060 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T16:04:54.027+01:00  INFO 8060 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T16:04:54.560+01:00  WARN 8060 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T16:04:56.224+01:00  INFO 8060 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T16:04:56.381+01:00  INFO 8060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T16:04:56.403+01:00  INFO 8060 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 12.449 seconds (process running for 12.991)
+2023-01-17T16:13:51.299+01:00  INFO 8060 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T16:13:51.300+01:00  INFO 8060 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T16:13:51.302+01:00  INFO 8060 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-01-17T16:13:51.958+01:00  INFO 8060 --- [http-nio-8080-exec-7] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 238 ms
+2023-01-17T16:19:30.800+01:00  INFO 8060 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T16:19:30.804+01:00  INFO 8060 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-17T16:19:30.810+01:00  INFO 8060 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-01-17T16:19:35.245+01:00  INFO 16244 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 16244 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T16:19:35.249+01:00  INFO 16244 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T16:19:36.630+01:00  INFO 16244 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T16:19:36.695+01:00  INFO 16244 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 55 ms. Found 1 JPA repository interfaces.
+2023-01-17T16:19:37.556+01:00  INFO 16244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T16:19:37.570+01:00  INFO 16244 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T16:19:37.571+01:00  INFO 16244 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T16:19:37.703+01:00  INFO 16244 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T16:19:37.703+01:00  INFO 16244 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2345 ms
+2023-01-17T16:19:38.022+01:00  WARN 16244 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T16:19:39.015+01:00  INFO 16244 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T16:19:39.015+01:00  INFO 16244 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T16:19:39.015+01:00  INFO 16244 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T16:19:39.016+01:00  INFO 16244 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T16:19:39.016+01:00  INFO 16244 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T16:19:39.018+01:00  INFO 16244 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T16:19:39.984+01:00  INFO 16244 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T16:19:40.123+01:00  INFO 16244 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T16:19:40.127+01:00  WARN 16244 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T16:19:40.450+01:00  INFO 16244 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T16:19:40.457+01:00  INFO 16244 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T16:19:43.153+01:00  INFO 16244 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - 33e12e24-8e05-42dd-9706-29570382e7b0 this
+]
+
+2023-01-17T16:19:43.166+01:00  INFO 16244 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T16:19:43.300+01:00  INFO 16244 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T16:19:43.650+01:00  INFO 16244 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64b8eb96
+2023-01-17T16:19:43.652+01:00  INFO 16244 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T16:19:43.705+01:00  INFO 16244 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T16:19:43.765+01:00  INFO 16244 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T16:19:43.987+01:00  WARN 16244 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T16:19:44.186+01:00  INFO 16244 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T16:19:44.430+01:00  INFO 16244 --- [main] o.h.c.beanvalidation.TypeSafeActivator   : Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291) ~[jakarta.validation-api-3.0.2.jar:na]
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103) ~[jakarta.validation-api-3.0.2.jar:na]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[na:na]
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425) ~[hibernate-core-6.1.6.Final.jar:6.1.6.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352) ~[spring-orm-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584) ~[spring-context-6.0.3.jar:6.0.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302) ~[spring-boot-3.0.1.jar:3.0.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291) ~[spring-boot-3.0.1.jar:3.0.1]
+	at com.larrex.productapi.ProductapiApplication.main(ProductapiApplication.java:15) ~[classes/:na]
+
+2023-01-17T16:19:44.938+01:00  INFO 16244 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T16:19:44.949+01:00  INFO 16244 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T16:19:45.419+01:00  WARN 16244 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T16:19:46.838+01:00  INFO 16244 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T16:19:46.951+01:00  INFO 16244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T16:19:46.971+01:00  INFO 16244 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 12.343 seconds (process running for 12.862)
+2023-01-17T16:19:53.598+01:00  INFO 16244 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T16:19:53.599+01:00  INFO 16244 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T16:19:53.601+01:00  INFO 16244 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-01-17T16:19:54.240+01:00  INFO 16244 --- [http-nio-8080-exec-10] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 237 ms
+2023-01-17T16:35:35.677+01:00  INFO 16244 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T16:35:35.680+01:00  INFO 16244 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-17T16:35:35.688+01:00  INFO 16244 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-01-17T17:12:33.290+01:00  INFO 988 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 988 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T17:12:33.293+01:00  INFO 988 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T17:12:34.647+01:00  INFO 988 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T17:12:34.710+01:00  INFO 988 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interfaces.
+2023-01-17T17:12:35.634+01:00  INFO 988 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T17:12:35.647+01:00  INFO 988 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T17:12:35.647+01:00  INFO 988 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T17:12:35.786+01:00  INFO 988 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T17:12:35.786+01:00  INFO 988 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2409 ms
+2023-01-17T17:12:36.104+01:00  WARN 988 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T17:12:37.143+01:00  INFO 988 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T17:12:37.144+01:00  INFO 988 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T17:12:37.144+01:00  INFO 988 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T17:12:37.144+01:00  INFO 988 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T17:12:37.144+01:00  INFO 988 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T17:12:37.147+01:00  INFO 988 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T17:12:38.117+01:00  INFO 988 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T17:12:38.255+01:00  INFO 988 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T17:12:38.259+01:00  WARN 988 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T17:12:38.576+01:00  INFO 988 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T17:12:38.582+01:00  INFO 988 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T17:12:41.104+01:00  INFO 988 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - c8ab665d-e536-4fbf-ba8a-3e4f1ecad3e2 this
+]
+
+2023-01-17T17:12:41.116+01:00  INFO 988 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T17:12:41.239+01:00  INFO 988 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T17:12:41.599+01:00  INFO 988 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d73cd78
+2023-01-17T17:12:41.601+01:00  INFO 988 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T17:12:41.649+01:00  INFO 988 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T17:12:41.702+01:00  INFO 988 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T17:12:41.967+01:00  WARN 988 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T17:12:42.144+01:00  INFO 988 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T17:12:42.914+01:00  INFO 988 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T17:12:42.925+01:00  INFO 988 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T17:12:43.438+01:00  WARN 988 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T17:12:44.907+01:00  INFO 988 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T17:12:44.999+01:00  INFO 988 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T17:12:45.019+01:00  INFO 988 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 12.32 seconds (process running for 12.841)
+2023-01-17T17:13:17.194+01:00  INFO 988 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T17:13:17.195+01:00  INFO 988 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T17:13:17.197+01:00  INFO 988 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-17T17:13:17.864+01:00  INFO 988 --- [http-nio-8080-exec-6] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 256 ms
+2023-01-17T17:15:16.106+01:00  WARN 988 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.larrex.productapi.model.Product com.larrex.productapi.controllers.ProductRestController.createProduct(com.larrex.productapi.model.Product): [Field error in object 'product' on field 'name': rejected value [null]; codes [NotNull.product.name,NotNull.name,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [product.name,name]; arguments []; default message [name]]; default message [must not be null]] ]
+2023-01-17T17:24:11.307+01:00  INFO 988 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T17:24:11.310+01:00  INFO 988 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-17T17:24:11.317+01:00  INFO 988 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-01-17T17:24:15.687+01:00  INFO 17432 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 17432 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T17:24:15.690+01:00  INFO 17432 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T17:24:17.006+01:00  INFO 17432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T17:24:17.068+01:00  INFO 17432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 52 ms. Found 1 JPA repository interfaces.
+2023-01-17T17:24:17.922+01:00  INFO 17432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T17:24:17.935+01:00  INFO 17432 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T17:24:17.935+01:00  INFO 17432 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T17:24:18.064+01:00  INFO 17432 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T17:24:18.065+01:00  INFO 17432 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2287 ms
+2023-01-17T17:24:18.373+01:00  WARN 17432 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T17:24:19.349+01:00  INFO 17432 --- [main] com.hazelcast.system.logo                : [192.168.48.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T17:24:19.350+01:00  INFO 17432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T17:24:19.350+01:00  INFO 17432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.48.34]:5701
+2023-01-17T17:24:19.350+01:00  INFO 17432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T17:24:19.351+01:00  INFO 17432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T17:24:19.353+01:00  INFO 17432 --- [main] com.hazelcast.system                     : [192.168.48.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T17:24:20.329+01:00  INFO 17432 --- [main] com.hazelcast.system.security            : [192.168.48.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T17:24:20.466+01:00  INFO 17432 --- [main] com.hazelcast.instance.impl.Node         : [192.168.48.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T17:24:20.470+01:00  WARN 17432 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.48.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T17:24:20.797+01:00  INFO 17432 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.48.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T17:24:20.803+01:00  INFO 17432 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTING
+2023-01-17T17:24:23.241+01:00  INFO 17432 --- [main] c.h.internal.cluster.ClusterService      : [192.168.48.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.48.34]:5701 - d554745c-5218-4a90-b981-d6ea97b6afc3 this
+]
+
+2023-01-17T17:24:23.253+01:00  INFO 17432 --- [main] com.hazelcast.core.LifecycleService      : [192.168.48.34]:5701 [dev] [5.1.5] [192.168.48.34]:5701 is STARTED
+2023-01-17T17:24:23.398+01:00  INFO 17432 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T17:24:23.762+01:00  INFO 17432 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@67ceaa9
+2023-01-17T17:24:23.764+01:00  INFO 17432 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T17:24:23.813+01:00  INFO 17432 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T17:24:23.867+01:00  INFO 17432 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T17:24:24.124+01:00  WARN 17432 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T17:24:24.308+01:00  INFO 17432 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T17:24:25.098+01:00  INFO 17432 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T17:24:25.109+01:00  INFO 17432 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T17:24:25.618+01:00  WARN 17432 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T17:24:27.157+01:00  INFO 17432 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T17:24:27.252+01:00  INFO 17432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T17:24:27.270+01:00  INFO 17432 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 12.19 seconds (process running for 12.694)
+2023-01-17T17:24:36.231+01:00  INFO 17432 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T17:24:36.231+01:00  INFO 17432 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T17:24:36.233+01:00  INFO 17432 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-17T17:24:36.395+01:00  WARN 17432 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.larrex.productapi.model.Product com.larrex.productapi.controllers.ProductRestController.createProduct(com.larrex.productapi.model.Product): [Field error in object 'product' on field 'price': rejected value [0]; codes [Min.product.price,Min.price,Min.int,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [product.price,price]; arguments []; default message [price],1]; default message [Bro minimum value for price is 1]] ]
+2023-01-17T23:17:55.788+01:00  INFO 8948 --- [main] c.l.productapi.ProductapiApplication     : Starting ProductapiApplication using Java 19.0.1 with PID 8948 (C:\Spring projects\productapi\target\classes started by user in C:\Spring projects\productapi)
+2023-01-17T23:17:55.791+01:00  INFO 8948 --- [main] c.l.productapi.ProductapiApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-01-17T23:17:57.161+01:00  INFO 8948 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-01-17T23:17:57.227+01:00  INFO 8948 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 56 ms. Found 1 JPA repository interfaces.
+2023-01-17T23:17:58.160+01:00  INFO 8948 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-17T23:17:58.174+01:00  INFO 8948 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-17T23:17:58.175+01:00  INFO 8948 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-17T23:17:58.314+01:00  INFO 8948 --- [main] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring embedded WebApplicationContext
+2023-01-17T23:17:58.314+01:00  INFO 8948 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2428 ms
+2023-01-17T23:17:58.623+01:00  WARN 8948 --- [main] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2023-01-17T23:17:59.603+01:00  INFO 8948 --- [main] com.hazelcast.system.logo                : [192.168.146.34]:5701 [dev] [5.1.5] 
+	+       +  o    o     o     o---o o----o o      o---o     o     o----o o--o--o
+	+ +   + +  |    |    / \       /  |      |     /         / \    |         |   
+	+ + + + +  o----o   o   o     o   o----o |    o         o   o   o----o    |   
+	+ +   + +  |    |  /     \   /    |      |     \       /     \       |    |   
+	+       +  o    o o       o o---o o----o o----o o---o o       o o----o    o   
+2023-01-17T23:17:59.604+01:00  INFO 8948 --- [main] com.hazelcast.system                     : [192.168.146.34]:5701 [dev] [5.1.5] Copyright (c) 2008-2022, Hazelcast, Inc. All Rights Reserved.
+2023-01-17T23:17:59.604+01:00  INFO 8948 --- [main] com.hazelcast.system                     : [192.168.146.34]:5701 [dev] [5.1.5] Hazelcast Platform 5.1.5 (20221114 - c52d6ff) starting at [192.168.146.34]:5701
+2023-01-17T23:17:59.604+01:00  INFO 8948 --- [main] com.hazelcast.system                     : [192.168.146.34]:5701 [dev] [5.1.5] Cluster name: dev
+2023-01-17T23:17:59.605+01:00  INFO 8948 --- [main] com.hazelcast.system                     : [192.168.146.34]:5701 [dev] [5.1.5] Integrity Checker is disabled. Fail-fast on corrupted executables will not be performed.
+To enable integrity checker do one of the following: 
+  - Change member config using Java API: config.setIntegrityCheckerEnabled(true);
+  - Change XML/YAML configuration property: Set hazelcast.integrity-checker.enabled to true
+  - Add system property: -Dhz.integritychecker.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_INTEGRITYCHECKER_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T23:17:59.607+01:00  INFO 8948 --- [main] com.hazelcast.system                     : [192.168.146.34]:5701 [dev] [5.1.5] The Jet engine is disabled.
+To enable the Jet engine on the members, do one of the following:
+  - Change member config using Java API: config.getJetConfig().setEnabled(true)
+  - Change XML/YAML configuration property: Set hazelcast.jet.enabled to true
+  - Add system property: -Dhz.jet.enabled=true (for Hazelcast embedded, works only when loading config via Config.load)
+  - Add environment variable: HZ_JET_ENABLED=true (recommended when running container image. For Hazelcast embedded, works only when loading config via Config.load)
+2023-01-17T23:18:00.563+01:00  INFO 8948 --- [main] com.hazelcast.system.security            : [192.168.146.34]:5701 [dev] [5.1.5] Enable DEBUG/FINE log level for log category com.hazelcast.system.security  or use -Dhazelcast.security.recommendations system property to see security recommendations and the status of current config.
+2023-01-17T23:18:00.703+01:00  INFO 8948 --- [main] com.hazelcast.instance.impl.Node         : [192.168.146.34]:5701 [dev] [5.1.5] Using Multicast discovery
+2023-01-17T23:18:00.707+01:00  WARN 8948 --- [main] com.hazelcast.cp.CPSubsystem             : [192.168.146.34]:5701 [dev] [5.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2023-01-17T23:18:01.021+01:00  INFO 8948 --- [main] c.h.internal.diagnostics.Diagnostics     : [192.168.146.34]:5701 [dev] [5.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2023-01-17T23:18:01.027+01:00  INFO 8948 --- [main] com.hazelcast.core.LifecycleService      : [192.168.146.34]:5701 [dev] [5.1.5] [192.168.146.34]:5701 is STARTING
+2023-01-17T23:18:03.728+01:00  INFO 8948 --- [main] c.h.internal.cluster.ClusterService      : [192.168.146.34]:5701 [dev] [5.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.146.34]:5701 - 5edd5d13-a16e-4abb-9854-694c9e5252f2 this
+]
+
+2023-01-17T23:18:03.745+01:00  INFO 8948 --- [main] com.hazelcast.core.LifecycleService      : [192.168.146.34]:5701 [dev] [5.1.5] [192.168.146.34]:5701 is STARTED
+2023-01-17T23:18:03.905+01:00  INFO 8948 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-01-17T23:18:04.268+01:00  INFO 8948 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@67ceaa9
+2023-01-17T23:18:04.270+01:00  INFO 8948 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-01-17T23:18:04.325+01:00  INFO 8948 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-01-17T23:18:04.380+01:00  INFO 8948 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-01-17T23:18:04.607+01:00  WARN 8948 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-01-17T23:18:04.810+01:00  INFO 8948 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-01-17T23:18:05.626+01:00  INFO 8948 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-01-17T23:18:05.638+01:00  INFO 8948 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-01-17T23:18:06.198+01:00  WARN 8948 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-17T23:18:07.710+01:00  INFO 8948 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-01-17T23:18:07.834+01:00  INFO 8948 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/productapi'
+2023-01-17T23:18:07.861+01:00  INFO 8948 --- [main] c.l.productapi.ProductapiApplication     : Started ProductapiApplication in 12.661 seconds (process running for 13.238)
+2023-01-17T23:18:18.735+01:00  INFO 8948 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[localhost].[/productapi]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-17T23:18:18.736+01:00  INFO 8948 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-17T23:18:18.738+01:00  INFO 8948 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-17T23:18:19.429+01:00  INFO 8948 --- [http-nio-8080-exec-10] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 258 ms
